@@ -1,2 +1,4 @@
-package org.example;public class UserNonUniqueException {
+package org.example;
+
+public class UserNonUniqueException extends RuntimeException {
 }
